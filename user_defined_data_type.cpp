@@ -8,6 +8,8 @@ class Student{
         int age;
         
 };
+
+
 int main() {
     
     Student s1;
