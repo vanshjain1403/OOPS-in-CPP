@@ -50,7 +50,7 @@ class Vector{
         }
         size--;
     }
-    ~Vector() {
+    ~Vector(){
         delete[] arr;
     }
 };
